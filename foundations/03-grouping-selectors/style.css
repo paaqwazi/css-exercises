@@ -1,0 +1,12 @@
+.black_btn, .gold_btn {
+    font-size: 1.5rem;
+    border: 2px solid #959595;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.black_btn {
+    background-color: #000;
+    color: #fff;
+}
+.gold_btn {
+    background-color: #FFFF02;
+}
